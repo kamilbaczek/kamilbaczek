@@ -1,6 +1,9 @@
 # 💫About Me :
+
 🔭 I’m currently working on the Estimation Tool
+
 🌱 I’m currently learning Domain Driven Design
+
 💬 Ask me about Software Architecture and Design
 
 

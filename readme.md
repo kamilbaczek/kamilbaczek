@@ -1,6 +1,8 @@
 # 💫About Me :
 
-🔭 I’m currently working on the Estimation Tool
+👋 Hey there! I'm a passionate .Net software engineer and software architecture consultant who loves to explore new and emerging architecture patterns. 💻 With a keen eye for detail and a drive to learn, I constantly strive to create innovative solutions to complex problems. 🌟 I bring several years of experience in .Net development, architecture design, and project management to the table, and I believe that great software should be both functional and aesthetically pleasing. 🔥 When I'm not busy coding, I enjoy keeping up with the latest tech trends, attending tech conferences, and collaborating with other developers on open-source projects. 🚀 Let's build some great software together! 💪
+
+🔭 I’m currently working on the Super Simple Architecture
 
 🌱 I’m currently learning Domain Driven Design
 
